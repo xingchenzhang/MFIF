@@ -12,6 +12,46 @@ In total, 63 image pairs from three datasets, i.e. Lytro [1], MFFW [2], MFI-WHU 
 ## Fused images
 2205 images generated using 35 MFIF algorithms are provided.
 
+## Download links of the 35 MFIF methods
+
+
+- [ASR](https://github.com/yuliu316316/ASR-Fusion)
+- [BFMF](https://github.com/uzeful/Boundary-Finding-based-Multi-focus-Image-Fusion)
+- [BGSC](https://github.com/smart-media-lab/Multi-focus-image-fusion-using-a-bilateral-gradient-based-sharpness-criterion) 
+- [CBF](https://ww2.mathworks.cn/matlabcentral/fileexchange/43781-image-fusion-based-on-pixel-significance-using-cross-bilateral-filter) 
+- [CNN](https://github.com/yuliu316316/CNN-Fusion)
+- [CSR](https://github.com/yuliu316316/CSR-Fusion)
+- [DCT_Corr](https://github.com/mostafaaminnaji/Multi-Focus-Image-Fusion-in-DCT-Domain)
+- [DCT_EOL](https://github.com/mostafaaminnaji/Multi-Focus-Image-Fusion-in-DCT-Domain)
+- [DSIFT](https://github.com/yuliu316316/DSIFT-MFIF)
+- [DRPL](https://github.com/sasky1/DRPL)
+- [DWTDE](https://github.com/yuliu316316/DWTDE-Fusion)
+- [ECNN](https://github.com/mostafaaminnaji/ECNN) 
+- [FusionDN](https://github.com/hanna-xu/FusionDN)
+- [GCF](https://github.com/hanna-xu/GCF)
+- [GD](https://ww2.mathworks.cn/matlabcentral/fileexchange/48782-multi-exposure-and-multi-focus-image-fusion-in-gradient-domain)
+- [GFDF](https://github.com/bitname/Multi-focus-image-fusion-GFDF)
+- [GFF](http://xudongkang.weebly.com/)
+- [IFCNN](https://github.com/uzeful/IFCNN)
+- [IFM](https://ww2.mathworks.cn/matlabcentral/fileexchange/68963-a-demo-for-image-fusion)
+- [MADCNN](https://github.com/jtguan/MADCNN)
+- [MFF-GAN](https://github.com/HaoZhang1018/MFF-GAN)
+- [MFGM](https://github.com/sujoyp/gradient-domain-imagefusion)
+- [MFM](https://github.com/JinleiMa/Multi-focus-Image-Fusion-with-Multi-scale-Focus-Measures)
+- [MGFF](https://www.mathworks.com/matlabcentral/fileexchange/72451-multi-scale-guided-image-and-video-fusion?s\_tid=prof\_contriblnk) 
+- [LP_SR](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)
+- [MWGF](https://github.com/lsauto/MWGF-Fusion)
+- [NSCT_SR](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)
+- [PCANet](https://github.com/songxujay/Multi-focus-image-fusion-with-PCA-filters-of-PCANet)
+- [PMGI](https://github.com/jiayi-ma/PMGI\_AAAI2020)
+- [RP_SR](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)
+- [QB](https://github.com/zhangyu87/Quadtree\_based\_Image\_Fusion)
+- [SESF](https://github.com/Keep-Passion/SESF-Fuse)
+- [SFMD](https://github.com/xiaohuiben/Multi-focus-fusion)
+- [SVDDCT](https://github.com/mostafaaminnaji/Multi-focus-image-fusion-using-Singular-Value-Decomposition-in-DCT-domain)
+- [TF](https://github.com/JinleiMa/Twoscale-Fusion)
+- [U2Fusion](https://github.com/hanna-xu/U2Fusion)
+
 ## Citation
 If you find this work useful, please cite this paper:
 
