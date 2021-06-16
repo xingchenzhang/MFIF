@@ -1,4 +1,4 @@
-This is the repository corresponding to the paper "**Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study**" [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428544) published on Transactions on Pattern Analysis and Machine Intelligence. The author is Imperial College London, UK.
+This is the repository corresponding to the paper "**Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study**" [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428544) published on Transactions on Pattern Analysis and Machine Intelligence. The author is from Imperial College London, UK.
 
 In the paper, 35 MFIF methods have been evaluated using 19 metrics on 63 image pairs.
 
